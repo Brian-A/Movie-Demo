@@ -1,0 +1,10 @@
+// Theme variables - depending on flexibility required I'd include more/less of these for this exercise I've kept it relatively minimal
+
+$fa-font-path:        "fonts/"; // FontAwesome font path
+$theme-colour-primary: #9352b3; //buttons
+$theme-colour-secondary: #3e4555; // Footer/mobile nav etc.
+$headerGradient-colour-1: rgba(161, 31, 60, 0.7);
+$headerGradient-colour-2: rgba(147, 82, 179, 0.7);
+$dropdown-hover-text-colour: $theme-colour-primary;
+$dropdown-hover-text-hover-colour: $theme-colour-primary;
+$mobile-nav-hover-colour: $dropdown-hover-text-hover-colour;
